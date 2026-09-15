@@ -3,7 +3,7 @@
 **Full-Stack Developer · Software Development Student** in Amsterdam.
 
 MBO Software Development student (niveau 4) at Mediacollege Amsterdam, looking for a
-**6-month full-stack internship from December 2026**. I build and ship real, deployed
+**6-month full-stack internship from February 2027**. I build and ship real, deployed
 products — React and TypeScript on the front, Node, Python and Laravel behind it — and
 use AI-assisted workflows to get from idea to production fast.
 
@@ -49,4 +49,4 @@ transaction applies the batch with snapshot undo. Web-push reminders, weekly rep
 
 ### Currently
 
-🎓 Studying Software Development at Mediacollege Amsterdam &nbsp;·&nbsp; 🔎 Open to a full-stack internship from Dec 2026
+🎓 Studying Software Development at Mediacollege Amsterdam &nbsp;·&nbsp; 🔎 Open to a full-stack internship from Feb 2027
