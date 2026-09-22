@@ -7,7 +7,7 @@ MBO Software Development student (niveau 4) at Mediacollege Amsterdam, looking f
 products — React and TypeScript on the front, Node, Python and Laravel behind it — and
 cover the core logic with automated tests.
 
-🌐 [yevhent.com](https://yevhent.com) · 💼 [LinkedIn](https://www.linkedin.com/in/yevhen-tiutiunnyk-a733012b3/) · ✉️ yevhen.tuk@gmail.com
+🌐 [yevhent.com](https://yevhent.com) · 💼 [LinkedIn](https://www.linkedin.com/in/yevhen-tiutiunnyk-a733012b3/) · ✉️ yevhent.dev@gmail.com
 
 ### Tech
 
